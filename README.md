@@ -17,7 +17,7 @@
 ### How to initialize/run your application (where applicable)
 
 - pip install pytest
-- python3 madlib.py
+- python3 band.py
 
 ### How to use your library (where applicable)
 
@@ -27,4 +27,4 @@
 
 - Tests are located in the tests directory --> test_madlib.py.
 - Run tests using pytest.
-- __ of __ tests passed.
+- 6 of 10 tests passed.
