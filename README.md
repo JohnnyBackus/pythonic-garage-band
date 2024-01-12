@@ -27,4 +27,4 @@
 
 - Tests are located in the tests directory --> test_madlib.py.
 - Run tests using pytest.
-- 6 of 10 tests passed.
+- 10 of 16 tests passed.
